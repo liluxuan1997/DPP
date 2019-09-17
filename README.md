@@ -20,7 +20,7 @@ location prediction.
 
 ## Architecture
 
-<p align="center"><img width="90%" src="imgs/overview.png" />
+<p align="center"><img width="70%" src="imgs/overview.png" />
 
 
 ## Resources
